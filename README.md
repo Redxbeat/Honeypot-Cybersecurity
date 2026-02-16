@@ -1,4 +1,4 @@
-# 🛡️ SSH Honeypot Project (Cybersecurity Internship)
+# 🛡️ SSH Honeypot Project (Cybersecurity )
 
 ## 📌 Objective
 To build a custom SSH honeypot in Kali Linux that simulates a vulnerable SSH service and captures unauthorized connection attempts.
